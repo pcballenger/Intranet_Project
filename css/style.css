@@ -1,0 +1,7 @@
+/*theme css body for media="screen"*/
+body{
+    font-size: 100%;
+    font-family: "proxima-nova","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: white;
+    color: black;        
+}
